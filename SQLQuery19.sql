@@ -1,0 +1,5 @@
+SELECT TOP (1000) [STUDENTID]
+      ,[NAME]
+      ,[CITY]
+      ,[COURSEID]
+  FROM [demoDB].[dbo].[STUDENT]
